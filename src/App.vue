@@ -59,7 +59,7 @@ onMounted(() => {
       <article class="greeting" id="0">
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark mb-4">
     <div class="container">
-      <a class="navbar-brand" href="#"> <img src="src/assets/img/inline.png" style="width: 50px;" alt=""> Pizza Hut</a>
+      <a class="navbar-brand" href="#"> <img src="src/assets/img/logo2.png" style="width: 50px;" alt=""> Pizza Hut</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -129,7 +129,7 @@ onMounted(() => {
 
 		<article class="review-list" id="2">
       <div class="all-reviews"> 
-        <img src="src/assets/img/inline.png" style="width: 50px;" alt=""> 
+        <img src="src/assets/img/logo2.png" style="width: 50px;" alt=""> 
         <h4>Here's your past reviews!</h4>
       </div>
 
